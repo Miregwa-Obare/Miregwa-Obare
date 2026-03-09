@@ -7,7 +7,9 @@ Experienced in product optimization, sales insights, and customer experience.
 
 I focus on **AI-powered simulations, workflow efficiency, and data-driven decision-making** —  
 creating smart, scalable solutions that streamline supply chains, optimize logistics,  
-enhance products, and deliver measurable value to customers.
+enhance products, and deliver measurable value to customers.  
+
+I am also **actively learning** advanced Machine Learning, Artificial Intelligence, and cloud workflow automation to stay ahead in building smarter, scalable solutions.
 
 ---
 
@@ -35,13 +37,22 @@ enhance products, and deliver measurable value to customers.
 
 ---
 
-### 💬 Ask Me About
+### 💬 Ask Me About 
+- Data Science & Python Development
 - Machine Learning & Artificial Intelligence  
-- Logistics & Supply Chain Optimization  
-- Data Science & Python Development  
+- Logistics & Supply Chain Optimization 
 - AI-powered Simulations & Workflow Efficiency  
 - Deep Learning with TensorFlow & PyTorch  
 - Product Optimization & Customer Experience Strategy  
+
+---
+
+### 📖 Currently Learning
+- Advanced Machine Learning techniques  
+- Artificial Intelligence applications in logistics & supply chain  
+- Cloud workflow automation with Apache Airflow  
+- Deep Learning frameworks (TensorFlow, PyTorch, Keras)  
+- Business-focused AI solutions for customer experience  
 
 ---
 
