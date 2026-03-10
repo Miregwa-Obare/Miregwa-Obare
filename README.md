@@ -85,4 +85,4 @@ I bridge **analytics, machine learning, AI, logistics, supply chain, and custome
 
 ![Year](https://img.shields.io/badge/Year-2026-blue?style=flat-square&logo=github)
 
-© 2026 Miregwa-Obare | Building smarter supply chains with AI & ML
+© 2026 Miregwa-Obare | Shaping the Future of Intelligent Systems with AI & ML
