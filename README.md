@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Miregwa William Obare
 
 ### 🚀 About Me
-Economics & Applied Mathematics | Data Science & Python Developer |  
-Logistics & Supply Chain specialist | Skilled in Machine Learning, AI, Deep Learning, TensorFlow & PyTorch |  
-Experienced in product optimization, sales insights, and customer experience.  
+Economics & Applied Mathematics | Data Science & Python Developer (AI & Machine Learning) |  
+Logistics & Supply Chain Specialist | Skilled in Deep Learning, TensorFlow & PyTorch |  
+Experienced in product optimization, sales insights, and customer experience
 
 I focus on **AI-powered simulations, workflow efficiency, and data-driven decision-making** —  
 creating smart, scalable solutions that streamline supply chains, optimize logistics,  
